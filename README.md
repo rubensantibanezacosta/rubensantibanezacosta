@@ -27,3 +27,6 @@
 
 ![Ruben Santibañez Acosta github stats](https://github-readme-stats.vercel.app/api?username=rubensantibanezacosta&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensantibanezacosta&layout=compact&langs_count=8"/>
+
+<code><img height="50" href="https://www.linkedin.com/in/ruben-santibanez-835553164/" src="https://user-images.githubusercontent.com/44450566/144761002-afc3c8ea-5e50-46b0-8279-da56b82c0e6b.png"/></code>
+<code><img height="50" href="https://www.facebook.com/profile.php?id=100010330579014" src="https://user-images.githubusercontent.com/44450566/144760912-8a791c1e-0f13-4836-b70f-795838168b0b.png"/></code>
