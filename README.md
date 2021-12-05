@@ -28,6 +28,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensantibanezacosta&layout=compact&langs_count=8"/>
 
 
-Contact:
+**Contact:**  
+
+
 <code><a  href="https://www.linkedin.com/in/ruben-santibanez-835553164/"><img height="50" src="https://user-images.githubusercontent.com/44450566/144761002-afc3c8ea-5e50-46b0-8279-da56b82c0e6b.png"/></a></code>
 <code><a href="https://www.facebook.com/profile.php?id=100010330579014"><img height="50"  src="https://user-images.githubusercontent.com/44450566/144760912-8a791c1e-0f13-4836-b70f-795838168b0b.png"/><a/></code>
