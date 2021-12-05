@@ -5,7 +5,7 @@
 </em></p>
 
 
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code. 
+> I come from the metallurgical sector, and I have decided to completely to pivot my working life, and here I am trying to learn EVERYTHING!
 
 -----------
 
