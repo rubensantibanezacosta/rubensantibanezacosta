@@ -25,11 +25,13 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensantibanezacosta&layout=compact&langs_count=8"/>
 
 
 **Contact:**  
 
 
-<code><a  href="https://www.linkedin.com/in/ruben-santibanez-835553164/"><img height="50" src="https://user-images.githubusercontent.com/44450566/144761002-afc3c8ea-5e50-46b0-8279-da56b82c0e6b.png"/></a></code>
-<code><a href="https://www.facebook.com/profile.php?id=100010330579014"><img height="50"  src="https://user-images.githubusercontent.com/44450566/144760912-8a791c1e-0f13-4836-b70f-795838168b0b.png"/><a/></code>
+<code><a  href="https://www.linkedin.com/in/ruben-santibanez-835553164/"><img height="50" src="https://user-images.githubusercontent.com/44450566/144765322-a4722003-2d37-4546-90c8-6ca0e176e901.png"/></a></code>
+<code><a href="https://www.facebook.com/profile.php?id=100010330579014"><img height="50"  src="https://user-images.githubusercontent.com/44450566/144765293-12e3fe75-793a-43a7-ae67-a49e2bf01c91.png"/><a/></code>
